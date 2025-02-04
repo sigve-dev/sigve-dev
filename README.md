@@ -14,6 +14,9 @@ This is a work-in-progress overview of exams, projects and other stuff I am work
 - [**DS3103. Webutvikling**, **Exam (A)**](https://github.com/sigve-dev/DS3103-exam-h24)
 - [**PGR208. Android Programming**, **Exam (B)**](https://github.com/sigve-dev/PGR208-Exam-H24)
 
+## Projects
+- [**Simple Rock, Paper, & Sciccor game**, **JavaScript**](https://github.com/sigve-dev/Rock-Paper-Scissors)
+
 <!--
 ### First Semester  
 - **PGR103. Kreativt Webprosjekt**, **EKSAMEN (A)**  
