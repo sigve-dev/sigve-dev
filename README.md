@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-This is my GitHub organization for all finished exams.
+This is a work-in-progress overview of exams, projects and other stuff I am working on. 
 
 ## Høyskolen Kristiania - Frontend- og Mobilutvikling
 
