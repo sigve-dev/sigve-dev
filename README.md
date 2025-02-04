@@ -5,7 +5,7 @@ This is a work-in-progress overview of exams, projects and other stuff I am work
 ## Høyskolen Kristiania - Frontend- og Mobilutvikling
 
 ### First Semester
-- [**PGR102. Introduction to Programming**, **Exam (Approved**](https://github.com/sigve-dev/PGR102-exam-h23)
+- [**PGR102. Introduction to Programming**, **Exam (Approved)**](https://github.com/sigve-dev/PGR102-exam-h23)  
 
 ### Third Semester 
 - [**DS3103. Webutvikling**, **Exam (A)**](https://github.com/sigve-dev/DS3103-exam-h24)
