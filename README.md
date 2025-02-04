@@ -17,6 +17,8 @@ This is a work-in-progress overview of exams, projects and other stuff I am work
 ## Projects
 - [**Simple Rock, Paper, & Sciccor game**, **JavaScript**](https://github.com/sigve-dev/Rock-Paper-Scissors)
 
+- [**I also make music! Check me out!**](https://soundcloud.com/zigve)
+
 <!--
 ### First Semester  
 - **PGR103. Kreativt Webprosjekt**, **EKSAMEN (A)**  
