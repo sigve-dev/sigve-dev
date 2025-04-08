@@ -16,7 +16,7 @@ This is a work-in-progress overview of exams, projects and other stuff I am work
 
 ## Projects
 - [**An Easter themed egg boiling app**, **React, Typescript**](https://github.com/sigve-dev/easter-egg-boil)
- | [*The app in action*](https://sigve-dev.github.io/easter-egg-boil/)
+ | [*The app in action*](https://sigve-dev.github.io/easter-egg-boil/) |
 
 - [**Simple Rock, Paper, & Sciccor game**, **JavaScript**](https://github.com/sigve-dev/Rock-Paper-Scissors)
 
