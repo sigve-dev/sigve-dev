@@ -7,10 +7,8 @@ This is a work-in-progress overview of exams, projects and other stuff I am work
 ### First Semester 2023
 - [**PGR102. Introduction to Programming**, **Exam (Approved)**](https://github.com/sigve-dev/PGR102-exam-h23)
 
-### Second Semester 2024
+### Second & Third Semester 2024
 - [**PGR112. Objectoriented Programming**, **Exam (Approved)**](https://github.com/sigve-dev/PGR112-Exam-V24)
-
-### Third Semester 
 - [**DS3103. Webutvikling**, **Exam (A)**](https://github.com/sigve-dev/DS3103-exam-h24)
 - [**PGR208. Android Programming**, **Exam (B)**](https://github.com/sigve-dev/PGR208-Exam-H24)
 
