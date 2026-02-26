@@ -14,7 +14,7 @@ This is a work-in-progress overview of exams, projects and other stuff I am work
 
 ### Fifth Semester 2025 
 - [**PRO203, Smidig prosjekt**, **Exam (B)**](https://github.com/elineviktoria/smidig-eksamen)
-- [**PGS5602, iOS Programmering**, **Exam (B)**]
+- [**PGS5602, iOS Programmering**, **Exam (B)**](https://github.com/sigve-dev/ios-programmering-eksamen-h25)
 - [**TDS200, Kryssplattform**, **Exam (B)**]
 
 # Projects
