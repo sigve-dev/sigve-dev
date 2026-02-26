@@ -12,6 +12,9 @@ This is a work-in-progress overview of exams, projects and other stuff I am work
 - [**DS3103. Webutvikling**, **Exam (A)**](https://github.com/sigve-dev/DS3103-exam-h24)
 - [**PGR208. Android Programming**, **Exam (B)**](https://github.com/sigve-dev/PGR208-Exam-H24)
 
+### Fifth Semester 2025 
+- [**PRO203, Smidig prosjekt**, **Exam (B)**](https://github.com/elineviktoria/smidig-eksamen)
+
 # Projects
 - [**An Easter themed egg boiling app**, **React, Typescript**](https://github.com/sigve-dev/easter-egg-boil)
  | [*The app in action*](https://sigve-dev.github.io/easter-egg-boil/) |
@@ -27,7 +30,6 @@ This is a work-in-progress overview of exams, projects and other stuff I am work
 
 ### Second Semester  
 - **PGR103. Objektorientert Programmering**, **EKSAMEN (Godkjent)**
-
 
 
 <!--
